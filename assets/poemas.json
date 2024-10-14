@@ -1,0 +1,14 @@
+{
+  "poemas": [
+    {
+      "titulo": "Bésame bajo la lluvia",
+      "contenido": "Bajo el manto del agua,\nno hay secretos que ocultar.\nLas lágrimas y las sonrisas se funden en nuestro mar.\nBésame bajo la lluvia,\nno dejes que mis labios se sequen.\nNo me digas cosas que mi corazón no entienda.\nBésame bajo la lluvia,\nque con tus labios me quiero ahogar.\nBésame bajo la lluvia como el mar besa la arena,\ny la arena atrapa al mar.\nBésame bajo la lluvia,\nque la lluvia nos empape y que la tierra nos trague.\nBésame bajo la lluvia,\nque contigo quiero estar y en tus brazos despertar.\nBésame bajo la lluvia, cuando el cielo llora alegría,\ndonde las gotas danzan en nuestra cómplice melodía.\nDéjame amarte bajo la lluvia y en tu sombra descansar,\nque las gotas son frías y me mata la frialdad.\nBésame bajo la lluvia y te prometo siempre amar.",
+      "img": "https://images.unsplash.com/photo-1506187334569-7596f62cf93f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3149&q=80"
+    },
+    {
+      "titulo": "Poema 34",
+      "contenido": "Llegas con una fluidez indomable,\n dando vueltas y más vueltas,\n envolviéndome en tus corrientes,\n haciendo un laberinto entre mi cuerpo\n del que no quieres escapar.\n Y cuando te alejas, dejas tras de ti\n una frialdad que me consume,\n un vacío que hiela mis huesos,\n una ausencia que pesa en el alma,\n una ausencia que me recuerda\n que sin ti, mi mundo no tiene rumbo.",
+      "img": "https://images.unsplash.com/photo-1506187334569-7596f62cf93f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3149&q=80"
+    }
+  ]
+}
