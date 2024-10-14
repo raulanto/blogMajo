@@ -35,7 +35,7 @@ useSeoMeta({
                 <div class="max-w-md">
                     <h1 class="mb-5 text-5xl font-bold">Poemario</h1>
                     <p class="mb-5">
-                        Lugar donde se subiran todos los pemas dedicados a majo
+                        Lugar donde se subiran todos los pemas dedicados a majo y otros...
                     </p>
                     <NuxtLink  to="blog/">
                         <button class="btn btn-primary">Empezar a leer</button>
