@@ -23,7 +23,7 @@ definePageMeta({
                     </a>
                 </section>
 
-                <img src="../../assets/img/fondo.jpeg" class="w-full object-cover lg:rounded" style="height: 28em;"/>
+                <img src="../../assets/img/fondo.jpeg" class="w-full object-cover lg:rounded animate-fade-in block h-full  scale-100 transform  object-center opacity-100 transition duration-300 group-hover:scale-110" style="height: 28em;"/>
             </header>
 
             <div class="flex flex-col lg:flex-row lg:space-x-12 justify-center items-center">
@@ -58,6 +58,9 @@ definePageMeta({
                     <p class="pb-6">
                         Sabes tu muy bien que ya vivo enamorado de ti.
                     </p>
+                </div>
+                <div class="w-full lg:w-1/4 m-auto mt-12 max-w-screen-sm  ">
+                    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2mdEsXPu8ZmkHRRtAdC09e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
                 </div>
             </div>
         </main>

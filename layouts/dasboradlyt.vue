@@ -6,7 +6,7 @@ import FootBlog from "~/components/ui/footBlog.vue";
 
 <template>
   <nav-blog/>
-  <section class="antialiased fondo  min-h-screen  bg-cover bg-bottom ">
+  <section class="antialiased fondo  min-h-screen  object-cover bg-bottom ">
     <section class=" md:scroll-ml-60 h-full pt-8 px-14   md:container md:mx-auto sm:container ">
       <slot/>
     </section>
