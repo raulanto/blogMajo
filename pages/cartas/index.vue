@@ -50,6 +50,8 @@ definePageMeta({
                     <p class="pb-6">
                         Cada palabra se enreda en la imagen de tu silueta, que se ha grabado en mi mente. Las escribo para hacerte inmortal, para que nunca te olvide, y en cada verso encuentro una felicidad que no puedo describir.
                     </p>
+                    <p class="pb-6">
+Sabes tu muy bien que ya vivo enamorado de ti.                    </p>
                 </div>
             </div>
         </main>
