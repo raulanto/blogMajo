@@ -13,7 +13,7 @@ definePageMeta({
             <header class="mb-4 md:mb-0 w-full mx-auto relative">
                 <section class="px-4 lg:px-0">
                     <h2 class="text-4xl font-semibold text-gray-800 leading-tight">
-                       Carta 1
+                        Carta 1
                     </h2>
                     <a
                         href="#"
@@ -33,7 +33,8 @@ definePageMeta({
                         Dudas tanto del amor que me preguntas una y otra vez, Si?
                     </p>
 
-                    <p class="pb-6">Pero aquí sigo, respondiéndote, aunque no sé por qué me invade este miedo. Miedo de amarte y no ser suficiente, miedo de acercarme demasiado y hacerte infeliz. </p>
+                    <p class="pb-6">Pero aquí sigo, respondiéndote, aunque no sé por qué me invade este miedo. Miedo de
+                        amarte y no ser suficiente, miedo de acercarme demasiado y hacerte infeliz. </p>
 
                     <p class="pb-6">
                         Miedo de no saber cómo cuidarte, cuando ni siquiera sé cuidar de mí mismo.
@@ -41,17 +42,22 @@ definePageMeta({
 
                     </p>
                     <p class="pb-6">
-                        Se esfuman las mentiras que mi mente crea para protegerme, porque, más que el miedo de perderte, me asusta no saber si es real.
+                        Se esfuman las mentiras que mi mente crea para protegerme, porque, más que el miedo de perderte,
+                        me asusta no saber si es real.
                     </p>
 
                     <p class="pb-6">
-                        Pero al escribirte, estas palabras que brotan de lo más profundo de mi ser me confirman que esto no puede ser mentira.
+                        Pero al escribirte, estas palabras que brotan de lo más profundo de mi ser me confirman que esto
+                        no puede ser mentira.
                     </p>
                     <p class="pb-6">
-                        Cada palabra se enreda en la imagen de tu silueta, que se ha grabado en mi mente. Las escribo para hacerte inmortal, para que nunca te olvide, y en cada verso encuentro una felicidad que no puedo describir.
+                        Cada palabra se enreda en la imagen de tu silueta, que se ha grabado en mi mente. Las escribo
+                        para hacerte inmortal, para que nunca te olvide, y en cada verso encuentro una felicidad que no
+                        puedo describir.
                     </p>
                     <p class="pb-6">
-Sabes tu muy bien que ya vivo enamorado de ti.                    </p>
+                        Sabes tu muy bien que ya vivo enamorado de ti.
+                    </p>
                 </div>
             </div>
         </main>
