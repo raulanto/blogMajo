@@ -12,7 +12,7 @@ definePageMeta({
 <template>
 
         <article class="flex flex-col justify-center items-center  ">
-            <poe
+            <Poe
                 v-for="(poema, index) in poemas.poemas"
                 :key="index"
                 :conten="poema.contenido"
